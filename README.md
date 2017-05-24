@@ -1,3 +1,5 @@
+# Autor: Krystian Wrona
+
 Scheduler
  
 In an event driven system efficiently keeping track of expiry timers is a common problem. This can apply to any system keeping track of outstanding requests or messages with an expiry time. Scheduler component is composed of two user-facing operations: start and stop. 
